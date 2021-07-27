@@ -1,0 +1,22 @@
+
+.tasksAlignCenter{
+    align-items: center;
+    justify-content: center;
+}
+.addTask {
+    border: black;
+    // border-style: solid;
+    padding: 0.3rem;
+    border-radius: 7px;
+    border-block-width: 0.3px;
+}
+
+.paddingFromLeft{
+    padding-left: 0.4rem;
+}
+
+.deleteTask{
+    cursor: pointer;
+    width: 1.2rem;
+    padding-top: 0.5rem;
+}
